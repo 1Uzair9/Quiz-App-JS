@@ -1,5 +1,5 @@
 # Quiz-App-JS
-◆ quiz application using HTML,CSS & JavaScript
+🧠 quiz application using HTML,CSS & JavaScript
 
 ◈ Technologies Used: HTML, CSS, JavaScript
 
