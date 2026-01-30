@@ -9,3 +9,5 @@ Functionality: Displays questions dynamically, validates answers, and calculates
 User Interface: Clean and responsive design for a smooth user experience across devices.
 
 Key Concepts: DOM manipulation, event handling, and basic JavaScript logic.
+![Image](https://github.com/user-attachments/assets/c77321b5-b371-4c97-84e7-e00704e6543d)
+![Image](https://github.com/user-attachments/assets/b718907e-da1c-460d-a926-91aa5f381133)
